@@ -7,10 +7,14 @@
    - **Muhammad Akram A.   05111540000050**
 
 Template Engine yang digunakan: 
-1. [Hulk-hogan](https://www.mongodb.com/)
+https://expressjs.com/en/resources/template-engines.html
+1. [swig](https://github.com/paularmstrong/swig/) - Django-like template engine for ExpressJS
    
 ## Cara Menjalankan:
-1. Install NodeJS dan MongoDB
+1. Buka folder dan masuk terminal
+2. Jalankan `npm install express --save`
+3. Jalankan `npm install`
+4. Jalankan `node app.js`
+5. Buka browser menuju ke halaman http://localhost:3000
 
-![hasil](/hasil1.png)
-![login](/hasil2.png)
+![hasil](/hasil.png)
