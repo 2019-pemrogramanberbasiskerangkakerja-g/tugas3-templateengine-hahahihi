@@ -27,9 +27,9 @@ app.get('/*', function (req, res) {
 });
 
 people = [
-  { name: 'Naufal', NRP:  05111540000057 },
-  { name: 'Akram', NRP:   05111540000050 },
-  { name: 'Hilmi', NRP:   05111640000164 }
+  { name: 'Naufal', NRP: 5115100057 },
+  { name: 'Akram', NRP: 5115100050 },
+  { name: 'Hilmi', NRP: 5116100164 }
 ];
 
 app.listen(3000);
