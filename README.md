@@ -7,11 +7,11 @@
    - **Muhammad Akram A.   05111540000050**
 
 Template Engine yang digunakan: 
-https://expressjs.com/en/resources/template-engines.html
-1. [swig](https://github.com/paularmstrong/swig/) - Django-like template engine for ExpressJS
+- https://expressjs.com/en/resources/template-engines.html
+- [swig](https://github.com/paularmstrong/swig/) - Django-like template engine for ExpressJS
    
 ## Cara Menjalankan:
-1. Buka folder dan masuk terminal
+1. Clone repository ini, buka folder dan masuk terminal
 2. Jalankan `npm install express --save`
 3. Jalankan `npm install`
 4. Jalankan `node app.js`
